@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650302426 source:c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\1 - tipos abstratos de dados (tad)\exemplo\tad_exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad_header.h"
+
+1650302449 c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\1 - tipos abstratos de dados (tad)\exemplo\tad_exemplo\tad_header.h
+
+1650302494 source:c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\1 - tipos abstratos de dados (tad)\tad_exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad_header.h"
+
+1650302499 c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\1 - tipos abstratos de dados (tad)\tad_exemplo\tad_header.h
+
